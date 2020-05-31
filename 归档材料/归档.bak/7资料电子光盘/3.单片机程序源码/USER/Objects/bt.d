@@ -1,0 +1,13 @@
+.\objects\bt.o: ..\Periphery\BT\BT.c
+.\objects\bt.o: ..\Periphery\BT\BT.h
+.\objects\bt.o: ..\CORE\stm32f10x.h
+.\objects\bt.o: ..\CORE\core_cm3.h
+.\objects\bt.o: D:\KEIL\Keil5.2MDK\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\bt.o: ..\CORE\system_stm32f10x.h
+.\objects\bt.o: ..\CORE\stm32f10x_conf.h
+.\objects\bt.o: ..\FWLIB\inc\stm32f10x_gpio.h
+.\objects\bt.o: ..\CORE\stm32f10x.h
+.\objects\bt.o: ..\FWLIB\inc\stm32f10x_rcc.h
+.\objects\bt.o: ..\FWLIB\inc\misc.h
+.\objects\bt.o: ..\FWLIB\inc\stm32f10x_usart.h
+.\objects\bt.o: D:\KEIL\Keil5.2MDK\ARM\ARMCC\Bin\..\include\stdio.h

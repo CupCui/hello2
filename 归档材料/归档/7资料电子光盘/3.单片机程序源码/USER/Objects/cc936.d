@@ -1,0 +1,16 @@
+.\objects\cc936.o: ..\FATFS\option\cc936.c
+.\objects\cc936.o: ..\FATFS\option\../ff.h
+.\objects\cc936.o: ..\FATFS\option\../integer.h
+.\objects\cc936.o: ..\FATFS\option\../ffconf.h
+.\objects\cc936.o: ..\FATFS\option\../sdio_sdcard.h
+.\objects\cc936.o: ..\CORE\stm32f10x.h
+.\objects\cc936.o: ..\CORE\core_cm3.h
+.\objects\cc936.o: D:\KEIL\Keil5.2MDK\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\cc936.o: ..\CORE\system_stm32f10x.h
+.\objects\cc936.o: ..\CORE\stm32f10x_conf.h
+.\objects\cc936.o: ..\FWLIB\inc\stm32f10x_gpio.h
+.\objects\cc936.o: ..\CORE\stm32f10x.h
+.\objects\cc936.o: ..\FWLIB\inc\stm32f10x_rcc.h
+.\objects\cc936.o: ..\FWLIB\inc\stm32f10x_sdio.h
+.\objects\cc936.o: ..\FWLIB\inc\stm32f10x_dma.h
+.\objects\cc936.o: ..\FWLIB\inc\misc.h

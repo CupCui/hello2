@@ -1,0 +1,13 @@
+.\objects\dht11.o: ..\Periphery\DHT11\DHT11.c
+.\objects\dht11.o: ..\Periphery\DHT11\DHT11.h
+.\objects\dht11.o: ..\CORE\stm32f10x.h
+.\objects\dht11.o: ..\CORE\core_cm3.h
+.\objects\dht11.o: D:\KEIL\Keil5.2MDK\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\dht11.o: ..\CORE\system_stm32f10x.h
+.\objects\dht11.o: ..\CORE\stm32f10x_conf.h
+.\objects\dht11.o: ..\FWLIB\inc\stm32f10x_gpio.h
+.\objects\dht11.o: ..\CORE\stm32f10x.h
+.\objects\dht11.o: ..\FWLIB\inc\stm32f10x_rcc.h
+.\objects\dht11.o: .\Main\common.h
+.\objects\dht11.o: ..\FWLIB\inc\stm32f10x_tim.h
+.\objects\dht11.o: ..\FWLIB\inc\misc.h

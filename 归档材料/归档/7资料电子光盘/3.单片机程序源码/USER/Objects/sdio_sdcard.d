@@ -1,0 +1,13 @@
+.\objects\sdio_sdcard.o: ..\FATFS\sdio_sdcard.c
+.\objects\sdio_sdcard.o: ..\FATFS\sdio_sdcard.h
+.\objects\sdio_sdcard.o: ..\CORE\stm32f10x.h
+.\objects\sdio_sdcard.o: ..\CORE\core_cm3.h
+.\objects\sdio_sdcard.o: D:\KEIL\Keil5.2MDK\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\sdio_sdcard.o: ..\CORE\system_stm32f10x.h
+.\objects\sdio_sdcard.o: ..\CORE\stm32f10x_conf.h
+.\objects\sdio_sdcard.o: ..\FWLIB\inc\stm32f10x_gpio.h
+.\objects\sdio_sdcard.o: ..\CORE\stm32f10x.h
+.\objects\sdio_sdcard.o: ..\FWLIB\inc\stm32f10x_rcc.h
+.\objects\sdio_sdcard.o: ..\FWLIB\inc\stm32f10x_sdio.h
+.\objects\sdio_sdcard.o: ..\FWLIB\inc\stm32f10x_dma.h
+.\objects\sdio_sdcard.o: ..\FWLIB\inc\misc.h

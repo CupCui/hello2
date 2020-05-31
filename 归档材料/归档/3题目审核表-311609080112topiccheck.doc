@@ -1,0 +1,76 @@
+﻿<html xmlns:o="urn:schemas-microsoft-com:office:office"  
+        xmlns:w="urn:schemas-microsoft-com:office:word"  
+                 xmlns="http://www.w3.org/TR/REC-html40"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+     <style>
+     .table-c table{border-right:1px solid #000000;border-bottom:1px solid #000000}
+     .table-c table td{border-left:1px solid #000000;border-top:1px solid #000000}
+     </style>
+     <div class="table-c">
+     <div style="line-height: 60px; text-align:center;line-height:60px;"><font style="font-size: 21px; font-family: 黑体;">计算机科学与技术学院本科毕业设计（论文）题目审核表</font></div>
+     <div style="line-height: 30px; text-align:right;"><font style="font-size: 14px;">题目编号：&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></div>
+     <table  border="0" cellspacing="0" cellpadding="0" width="100%">
+     <tr>
+     <td  style="height:40px;text-align:center;">&nbsp;题目名称&nbsp;</td>
+     <td  style="text-align:center;">语音识别智能垃圾分类器设计与实现</td>
+     </tr>
+     <tr>
+     <td  style="height:40px;text-align:center;">题目来源</td>
+     <td>□科研课题  □社会生产实际 □教学实践（含实验）☑其它</td>
+     </tr>
+     <tr>
+     <td  style="height:40px;text-align:center;">预期成果</td>
+     <td>☑毕业设计 □毕业论文         （从两个选项中选1项）<br>☑硬件     □软件    □图纸  （从三个选项中选1项）</td>
+     </tr>
+     <tr>
+     <td style="height:40px;text-align:center;">适用专业</td>
+     <td style="text-align:center;">物联网工程</td>
+     </tr>
+     <tr>
+     <td   colspan="2" style="line-height:30px; padding-left: 10px;"><strong>一、学生背景知识要求</strong><br><pre>对物联网集成系统有一定了解，熟悉物联网系统的开发环境和开发流程，熟练单片机编程技术和开发工具的使用。
+熟练电路板的焊接与模块的装配能力，以及物联网集成系统调试与故障排除能力。
+能够根据现实需要设计合理的系统，根据需求运用物联网知识进行系统设计，通过软件、硬件结合的方式进行系统开发。</pre></td>
+      
+     </tr>
+     <tr>
+     <td   colspan="2" style="line-height:30px; padding-left: 10px;"><strong>二、采用的主要方法与技术</strong><br><pre>1、	运用软件工程知识进行需求分析和系统设计；
+2、	使用物联网技术知识进行系统功能的设计；
+3、	使用单片机技术、嵌入式系统技术、传感器技术完成相应的系统功能
+</pre></td>
+      
+     </tr>
+     <tr>
+     <td   colspan="2" style="line-height:30px; padding-left: 10px;"><strong>三、主要任务与要求</strong><br><pre>主要任务：
+1、	实现用户语音信息的录入与读取
+2、	根据使用者发出的指令自动对垃圾进行分类
+3、	根据垃圾的种类实时播报垃圾的类型
+4、	根据垃圾种类打开对应的垃圾桶
+5、	对分类垃圾箱的实时数据进行监测
+进度要求：
+第1周 ~ 第3周   开展调研和资料收集，完成开题
+第4周 ~ 第5周   进行功能需求分析，提出总体设计方案
+第6周 ~ 第8周   进行硬件电路设计，完成中期检查
+第9周 ~ 第13周   进行各项功能实现、测试及完善
+第14周 ~ 第15周  撰写毕业设计论文，准备答辩</pre></td>
+      
+     </tr>
+     <tr>
+     <td   colspan="2" style="line-height:30px; padding-left: 10px;"><strong>四、所支撑的毕业要求（从以下选项中选择3条以上）</strong><br>☑1.能够应用数学、自然科学和工程科学的基本原理，识别、表达、并通
+过文献研究分析复杂工程问题，以获得有效结论。<br>
+☑2.能够设计针对复杂工程问题的解决方案，设计满足特定需
+求的软件系统或硬件设备，并能够在设计环节中体现创新意识，并考虑社会、健
+康、安全、法律、文化以及环境等因素。<br>
+☑3.能够基于科学原理并采用科学方法对复杂工程问题进行研究，包括设计实
+验、分析与解释数据、并通过信息综合得到合理有效的结论。<br>
+☑4.能够针对复杂工程问题，开发、选择与使用恰当的技术、资源、
+现代工程工具和信息技术工具，包括对复杂工程问题的预测与模拟，并能够理解
+其局限性。<br>
+☑5.能够就复杂工程问题与业界同行及社会公众进行有效沟通和交流，包括撰写报告和设计文稿、陈述发言、清晰表达或回应指令。
+</td>
+      
+     </tr>
+     <tr>
+     <td   colspan="2" style="line-height:30px; padding-left: 10px;"><strong>五、专家组评审意见（如不通过，请说明理由及修改建议）</strong><br><p style="text-align:center;"><strong>选题符合专业培养要求，通过！</strong></p> 专家组成员签名：<p style="text-align:center;"><img width="100" height="30" src="http://39.106.37.71:8080/uploads/teacherphoto/10460070055-1583070322.jpg" >&nbsp;<img width="100" height="30" src="http://39.106.37.71:8080/uploads/teacherphoto/10460070010-1583035910.jpg" >&nbsp;<img width="100" height="30" src="http://39.106.37.71:8080/uploads/teacherphoto/10460079345-1582512694.jpg" > </p><p style="text-align:right;">2020-03-01</p>
+</td>
+      
+     </tr>
+     </table> </div></html>
