@@ -1,0 +1,14 @@
+.\objects\tft.o: ..\Periphery\TFT\TFT.c
+.\objects\tft.o: ..\Periphery\TFT\TFT.h
+.\objects\tft.o: ..\FWLIB\inc\stm32f10x_gpio.h
+.\objects\tft.o: ..\CORE\stm32f10x.h
+.\objects\tft.o: ..\CORE\core_cm3.h
+.\objects\tft.o: D:\KEIL\Keil5.2MDK\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\tft.o: ..\CORE\system_stm32f10x.h
+.\objects\tft.o: ..\CORE\stm32f10x_conf.h
+.\objects\tft.o: ..\FWLIB\inc\stm32f10x_gpio.h
+.\objects\tft.o: ..\FWLIB\inc\stm32f10x_rcc.h
+.\objects\tft.o: ..\CORE\stm32f10x.h
+.\objects\tft.o: ..\FWLIB\inc\stm32f10x_spi.h
+.\objects\tft.o: ..\Periphery\TFT\Ascii_8x16.h
+.\objects\tft.o: ..\Periphery\TFT\Chinese.h

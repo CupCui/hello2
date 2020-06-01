@@ -1,0 +1,61 @@
+﻿<html xmlns:o="urn:schemas-microsoft-com:office:office"  
+        xmlns:w="urn:schemas-microsoft-com:office:word"  
+                 xmlns="http://www.w3.org/TR/REC-html40"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+     <style>
+     .table-c table{border-right:1px solid #000000;border-bottom:1px solid #000000}
+     .table-c table td{border-left:1px solid #000000;border-top:1px solid #000000}
+     </style>
+     <div class="table-c">
+     <div style="text-align:center;line-height:80px;"><font style="font-size: 24px; font-family: 黑体;">河南理工大学本科毕业设计（论文）中期检查表</font></div>
+     <table  border="0" cellspacing="0" cellpadding="0" width="100%">
+     <tr>
+     <td  style="height:40px;text-align:center;">题目名称</td>
+     <td  colspan="5" style="text-align:center;">语音识别智能垃圾分类器设计与实现</td>
+     </tr>
+     
+     <tr>
+     <td style="height:40px;text-align:center;">学生姓名</td>
+     <td style="text-align:center;">崔光浩</td>
+     <td style="text-align:center;">专业班级</td>
+     <td style="text-align:center;">物联网工程-1</td>
+     <td style="text-align:center;">学号</td>
+     <td style="text-align:center;">311609080112</td>
+     </tr>
+     <tr>
+     <td   colspan="6" style="line-height:30px; padding-left: 10px;">一、进度情况（查阅中外文文献资料、综合运用知识、研究方案设计、研究方法和手段运用等）说明<br><pre>查阅文献资料：
+    [1]严海蓉.嵌入式微处理器原理与应用[M].清华大学出版社,2014.
+    [2]刘敏.嵌入式平台语音识别技术的研究[D].哈尔滨工业大学,2013.
+    [3]徐义芳,张金杰,姚开盛,曹志刚,王勇前.语音增强用于抗噪声语音识别[J].清华大学学报(自然科学版).2001(01).
+综合运用知识：
+    1.使用stm32技术和语音识别技术进行系统硬件电路的设计；
+    2.运用C语言知识进行嵌入式编程，实现系统软件功能的设计；
+    3.采用Keil5进行系统软件功能编写和调试；
+研究方案设计：
+    语音识别智能垃圾分类器系统采用语音识别技术、嵌入式技术进行搭建，采用C语言实现系统软件程序的设计，同时使用Keil5进行软件程序编写与调试。
+</pre></td>
+      
+     </tr>
+     <tr>
+     <td   colspan="6" style="line-height:30px; padding-left: 10px;">二、阶段性成果<br><pre>    通过搜集相关文献和资料，阅读嵌入式开发相关书籍、文档、参考手册等，逐步了解stm32相关系统的开发，确定了系统所需的模块，构建了系统的功能模块，进一步对系统基本功能进行设计，绘制基本电路图。根据电路图连接、焊接各个功能模块，完成基本硬件电路的搭建。</pre></td>
+      
+     </tr>
+     <tr>
+     <td   colspan="6" style="line-height:30px; padding-left: 10px;">三、存在的主要问题及解决方法<br><pre>    1.串口配置发生错误导致串口发送不成功，通过修改串口引脚的使用来解决。
+    2.stm32与电脑通信问题，通过选用HC-05蓝牙传感器和电脑进行无线通信。
+    3.和LD3320芯片连接出现时序错误的问题,通过调整并口的读写时序，保证写寄存器的速度足够快解决。
+</pre></td>
+      
+     </tr>
+     
+     <tr>
+     <td   colspan="6" style="line-height:30px; padding-left: 10px;">四、指导教师对学生在毕业设计（论文）中的纪律及毕业设计（论文）任务的完成进展等方面的评语 <p style="text-align:left;"> <pre> 该生在毕业设计过程中，遵守学校和学院的各项规章制度，能定期向指导老师汇报毕业设计进展情况。通过电路图连接、焊接各个功能模块，完成了基本硬件电路的搭建，毕业设计任务进展顺利，各方面均表现较好。 </pre></p> <div style="text-align:right;">指导教师签名：<img style width="100" height="30" src="http://39.106.37.71:8080/uploads/teacherphoto/10460070044-1583375373.jpg" ></div> <div style="text-align:right;">  2020-05-06</div>
+</td>
+      
+     </tr>
+
+     <tr>
+     <td   colspan="6" style="line-height:30px; padding-left: 10px;"><strong>五、专业质量监控专家审阅意见</strong><br><p style="text-align:left;">毕业设计任务按照进度安排进展较顺利，取得了一定的阶段性成果；对毕业设计开展过程中出现的问题认识到位，可以提出相应解决办法；中期检查报告撰写规范，表达通顺准确。请对前期工作进行完善，并按计划开展后续工作。</p> 成绩：<p style="text-align:center;"><strong>84</strong></p>专家组成员签名：<p style="text-align:center;"><img width="100" height="30" src="http://39.106.37.71:8080/uploads/teacherphoto/10460070055-1583070322.jpg" >&nbsp;<img width="100" height="30" src="http://39.106.37.71:8080/uploads/teacherphoto/10460070010-1583035910.jpg" >&nbsp;<img width="100" height="30" src="http://39.106.37.71:8080/uploads/teacherphoto/10460079345-1582512694.jpg" > </p><p style="text-align:right;">2020-05-13</p>
+</td>
+      
+     </tr>
+     </table> </div></html>

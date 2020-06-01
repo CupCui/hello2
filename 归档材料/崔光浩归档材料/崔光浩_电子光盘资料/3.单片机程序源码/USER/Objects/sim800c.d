@@ -1,0 +1,13 @@
+.\objects\sim800c.o: ..\Periphery\SIM800C\SIM800C.c
+.\objects\sim800c.o: ..\Periphery\SIM800C\SIM800C.h
+.\objects\sim800c.o: ..\CORE\stm32f10x.h
+.\objects\sim800c.o: ..\CORE\core_cm3.h
+.\objects\sim800c.o: D:\KEIL\Keil5.2MDK\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\sim800c.o: ..\CORE\system_stm32f10x.h
+.\objects\sim800c.o: ..\CORE\stm32f10x_conf.h
+.\objects\sim800c.o: ..\FWLIB\inc\stm32f10x_gpio.h
+.\objects\sim800c.o: ..\CORE\stm32f10x.h
+.\objects\sim800c.o: ..\FWLIB\inc\stm32f10x_rcc.h
+.\objects\sim800c.o: ..\FWLIB\inc\misc.h
+.\objects\sim800c.o: ..\FWLIB\inc\stm32f10x_usart.h
+.\objects\sim800c.o: D:\KEIL\Keil5.2MDK\ARM\ARMCC\Bin\..\include\stdio.h

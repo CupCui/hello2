@@ -1,0 +1,14 @@
+.\objects\mp3.o: ..\Periphery\MP3\MP3.c
+.\objects\mp3.o: ..\Periphery\MP3\MP3.h
+.\objects\mp3.o: ..\CORE\stm32f10x.h
+.\objects\mp3.o: ..\CORE\core_cm3.h
+.\objects\mp3.o: D:\KEIL\Keil5.2MDK\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\mp3.o: ..\CORE\system_stm32f10x.h
+.\objects\mp3.o: ..\CORE\stm32f10x_conf.h
+.\objects\mp3.o: ..\FWLIB\inc\stm32f10x_gpio.h
+.\objects\mp3.o: ..\CORE\stm32f10x.h
+.\objects\mp3.o: ..\FWLIB\inc\stm32f10x_rcc.h
+.\objects\mp3.o: ..\FWLIB\inc\stm32f10x_usart.h
+.\objects\mp3.o: .\Main\common.h
+.\objects\mp3.o: ..\FWLIB\inc\stm32f10x_tim.h
+.\objects\mp3.o: ..\FWLIB\inc\misc.h

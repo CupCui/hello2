@@ -1,0 +1,15 @@
+.\objects\diskio.o: ..\FATFS\diskio.c
+.\objects\diskio.o: ..\FATFS\diskio.h
+.\objects\diskio.o: ..\FATFS\integer.h
+.\objects\diskio.o: ..\CORE\stm32f10x.h
+.\objects\diskio.o: ..\CORE\core_cm3.h
+.\objects\diskio.o: D:\KEIL\Keil5.2MDK\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\diskio.o: ..\CORE\system_stm32f10x.h
+.\objects\diskio.o: ..\CORE\stm32f10x_conf.h
+.\objects\diskio.o: ..\FWLIB\inc\stm32f10x_gpio.h
+.\objects\diskio.o: ..\CORE\stm32f10x.h
+.\objects\diskio.o: ..\FWLIB\inc\stm32f10x_rcc.h
+.\objects\diskio.o: ..\FATFS\sdio_sdcard.h
+.\objects\diskio.o: ..\FWLIB\inc\stm32f10x_sdio.h
+.\objects\diskio.o: ..\FWLIB\inc\stm32f10x_dma.h
+.\objects\diskio.o: ..\FWLIB\inc\misc.h
